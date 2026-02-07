@@ -1,0 +1,26 @@
+{
+  "name": "kloc-oversight-council",
+  "version": "1.0.0",
+  "description": "Kernel-Level Oversight Council - Forced Disagreement Engine",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "governance",
+    "oversight",
+    "gemini",
+    "adversarial",
+    "shards"
+  ],
+  "author": "Shards Labs",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.33.0",
+    "lucide-react": "^0.561.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
